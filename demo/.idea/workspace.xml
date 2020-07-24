@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cc537b2-4c21-443e-bed7-b045f7126979" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHmcBksXof58AHV0v0BkFXiWKd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.small_miao">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="small_miao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small_miao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="small_miao2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6329fa395178fcb6e1d47f87392d580e/Message/MessageTemp/e00da9137cc4810bfd3b4d41732865f0/File" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6329fa395178fcb6e1d47f87392d580e/Message/MessageTemp/e00da9137cc4810bfd3b4d41732865f0/File/small_miao2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.small_miao" />
+        <item itemvalue="Python.small_miao2" />
+        <item itemvalue="Python.api_test" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.web_check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc537b2-4c21-443e-bed7-b045f7126979" name="Default Changelist" comment="" />
+      <created>1586400971145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586400971145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="147" key="#test" timestamp="1591685047625">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="669" y="147" key="#test/0.23.1920.982@0.23.1920.982" timestamp="1591685047625" />
+    <state width="1899" height="389" key="GridCell.Tab.0.bottom" timestamp="1595575969114">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1593658014647" />
+    <state width="1899" height="232" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1593771538855" />
+    <state width="1899" height="232" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1595468532744" />
+    <state width="1899" height="235" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1595553147068" />
+    <state width="1899" height="232" key="GridCell.Tab.0.bottom/0.23.1920.989@0.23.1920.989" timestamp="1595469320205" />
+    <state width="1899" height="389" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1595575969114" />
+    <state width="1899" height="235" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1595560561979" />
+    <state width="1899" height="235" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1595572893693" />
+    <state width="1899" height="389" key="GridCell.Tab.0.center" timestamp="1595575969106">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1593658014646" />
+    <state width="1899" height="232" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1593771538854" />
+    <state width="1899" height="232" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1595468532740" />
+    <state width="1899" height="235" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1595553147068" />
+    <state width="1899" height="232" key="GridCell.Tab.0.center/0.23.1920.989@0.23.1920.989" timestamp="1595469320204" />
+    <state width="1899" height="389" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1595575969106" />
+    <state width="1899" height="235" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1595560561978" />
+    <state width="1899" height="235" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1595572893692" />
+    <state width="1899" height="389" key="GridCell.Tab.0.left" timestamp="1595575969104">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1593658014646" />
+    <state width="1899" height="232" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1593771538854" />
+    <state width="1899" height="232" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1595468532738" />
+    <state width="1899" height="235" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1595553147067" />
+    <state width="1899" height="232" key="GridCell.Tab.0.left/0.23.1920.989@0.23.1920.989" timestamp="1595469320203" />
+    <state width="1899" height="389" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1595575969104" />
+    <state width="1899" height="235" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1595560561977" />
+    <state width="1899" height="235" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1595572893691" />
+    <state width="1899" height="389" key="GridCell.Tab.0.right" timestamp="1595575969107">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1593658014647" />
+    <state width="1899" height="232" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1593771538855" />
+    <state width="1899" height="232" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1595468532744" />
+    <state width="1899" height="235" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1595553147068" />
+    <state width="1899" height="232" key="GridCell.Tab.0.right/0.23.1920.989@0.23.1920.989" timestamp="1595469320205" />
+    <state width="1899" height="389" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1595575969107" />
+    <state width="1899" height="235" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1595560561978" />
+    <state width="1899" height="235" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1595572893692" />
+    <state width="1899" height="327" key="GridCell.Tab.1.bottom" timestamp="1595470666531">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.bottom/0.23.1920.989@0.23.1920.989" timestamp="1595469083583" />
+    <state width="1899" height="327" key="GridCell.Tab.1.bottom/0.23.1920.991@0.23.1920.991" timestamp="1595470666531" />
+    <state width="1899" height="327" key="GridCell.Tab.1.center" timestamp="1595470666530">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.center/0.23.1920.989@0.23.1920.989" timestamp="1595469083582" />
+    <state width="1899" height="327" key="GridCell.Tab.1.center/0.23.1920.991@0.23.1920.991" timestamp="1595470666530" />
+    <state width="1899" height="327" key="GridCell.Tab.1.left" timestamp="1595470666530">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.left/0.23.1920.989@0.23.1920.989" timestamp="1595469083581" />
+    <state width="1899" height="327" key="GridCell.Tab.1.left/0.23.1920.991@0.23.1920.991" timestamp="1595470666530" />
+    <state width="1899" height="327" key="GridCell.Tab.1.right" timestamp="1595470666531">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.right/0.23.1920.989@0.23.1920.989" timestamp="1595469083582" />
+    <state width="1899" height="327" key="GridCell.Tab.1.right/0.23.1920.991@0.23.1920.991" timestamp="1595470666531" />
+    <state x="84" y="145" key="SettingsEditor" timestamp="1591692043536">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state x="84" y="145" key="SettingsEditor/0.23.1920.982@0.23.1920.982" timestamp="1591684809831" />
+    <state x="84" y="145" key="SettingsEditor/0.23.1920.984@0.23.1920.984" timestamp="1591692043536" />
+    <state x="690" y="433" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595468173920">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state x="690" y="433" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.984@0.23.1920.984" timestamp="1595468173920" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6329fa395178fcb6e1d47f87392d580e/Message/MessageTemp/e00da9137cc4810bfd3b4d41732865f0/File/small_miao2.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
