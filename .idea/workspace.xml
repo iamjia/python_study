@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efed5a7f-1da2-4de8-8ed4-35f550d85631" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fR6lGVjNyJB98q76Asq6naHNEY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="yanmei" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\代码\python_study\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/yanmei.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.yanmei" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efed5a7f-1da2-4de8-8ed4-35f550d85631" name="Default Changelist" comment="" />
+      <created>1596168706810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596168706810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596168914885">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="446" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1596168914885" />
+    <state x="772" y="295" key="FileChooserDialogImpl" timestamp="1596168830089">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="772" y="295" key="FileChooserDialogImpl/64.0.1856.1080@64.0.1856.1080" timestamp="1596168830089" />
+    <state width="1835" height="295" key="GridCell.Tab.0.bottom" timestamp="1596371508098">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1835" height="295" key="GridCell.Tab.0.bottom/64.0.1856.1080@64.0.1856.1080" timestamp="1596371508098" />
+    <state width="1835" height="295" key="GridCell.Tab.0.center" timestamp="1596371508098">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1835" height="295" key="GridCell.Tab.0.center/64.0.1856.1080@64.0.1856.1080" timestamp="1596371508098" />
+    <state width="1835" height="295" key="GridCell.Tab.0.left" timestamp="1596371508098">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1835" height="295" key="GridCell.Tab.0.left/64.0.1856.1080@64.0.1856.1080" timestamp="1596371508098" />
+    <state width="1835" height="295" key="GridCell.Tab.0.right" timestamp="1596371508098">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1835" height="295" key="GridCell.Tab.0.right/64.0.1856.1080@64.0.1856.1080" timestamp="1596371508098" />
+    <state x="493" y="182" key="SettingsEditor" timestamp="1596168877894">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="493" y="182" key="SettingsEditor/64.0.1856.1080@64.0.1856.1080" timestamp="1596168877894" />
+    <state x="672" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1596340533394">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="672" y="364" key="com.intellij.ide.util.TipDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1596340533394" />
+  </component>
+</project>
